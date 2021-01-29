@@ -1,5 +1,7 @@
- #Livro de receitas :coo
 
+# Livro de receitas :man_cook:
 
-Olá! Bom vindo ao meu livro de receitas :wave
-- trogonoff de frango
+Olá! Bom vindo ao meu livro de receitas :wave:
+ - Strogonoff de frango
+ - pavê
+ - Bolo de cenoura
